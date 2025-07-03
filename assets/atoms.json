@@ -1,0 +1,35 @@
+[
+    {
+      "symbol": "H",
+      "name": "Hidrogênio",
+      "atomicNumber": 1,
+      "mass": 1.008,
+      "electrons": 1,
+      "color": "#FFFFFF"
+    },
+    {
+      "symbol": "He",
+      "name": "Hélio",
+      "atomicNumber": 2,
+      "mass": 4.0026,
+      "electrons": 2,
+      "color": "#D9FFFF"
+    },
+    {
+      "symbol": "Li",
+      "name": "Lítio",
+      "atomicNumber": 3,
+      "mass": 6.94,
+      "electrons": 3,
+      "color": "#CC80FF"
+    },
+    {
+      "symbol": "Be",
+      "name": "Berílio",
+      "atomicNumber": 4,
+      "mass": 9.0122,
+      "electrons": 4,
+      "color": "#C2FF00"
+    }
+  ]
+  
